@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "7c175380ae4a0a1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcc0c5a08c7b3acb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e00be9e9ed9615ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a8496052ba8a0ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d34c564029f0c5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1e9703951261da0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "37ceb46be25e2663",
+    "type": "split",
+    "children": [
+      {
+        "id": "9591a2eb0cedef6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a9e1c079aabb193",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fcc0c5a08c7b3acb",
+  "lastOpenFiles": [
+    "index.md",
+    "README.md",
+    "FORMULARIO_1.md",
+    "svg/y9FhPKymUw.svg",
+    "svg/PeXAKeIecr.svg",
+    "svg/nWKBy4vVB8.svg",
+    "svg/78M5dS5CEa.svg"
+  ]
+}
