@@ -10,15 +10,15 @@
   
 </details>
 
-
-$$\sqrt[mn]{a^n} = \sqrt[m]{a}$$
-
-
-
 # Chimica
 
 # Fisica
 
 # Biologia
+
+### Come collaborare
+> puoi contattarmi o seguire direttamente i passaggi qui sotto elencati(in aggiornamento)
+>  - Per contattarmi manda direttamente una email a *diego.namkhai@gmail.com*
+> 
 
 
