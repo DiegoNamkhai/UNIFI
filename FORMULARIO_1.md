@@ -50,6 +50,9 @@
 |sinh|$$f(x) = sinh(x) = \frac{e^x-e^{-x}}{2}$$  | $$f'(x)= cosh(x)$$ |
 |cosh|$$f(x) = cosh(x) = \frac{e^x+e^{-x}}{2}$$  | $$f'(x)= sinh(x)$$ |
 
+# Integrali
+
+
 
 
 
