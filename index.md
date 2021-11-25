@@ -2,7 +2,7 @@
 <details>
   <summary>Formulari</summary>
   
-  - il [seguente](https://github.com/DiegoNamkhai/UNIFI/blob/main/FORMULARIO_1.html) formulario contiene:
+  - il [seguente](https://diegonamkhai.github.io/UNIFI/FORMULARIO_1.html) formulario contiene:
     - algebra
     - razionalizzazione
     - limiti notevoli
