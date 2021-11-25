@@ -7,7 +7,7 @@
 # Operazioni con i radicali
 | OPERAZIONE | FORMULA |
 |---|---|
-|semplificazione | <!-- $$\sqrt[mn]{a^n} = \sqrt[m]{a}$$ --><div align="center"><img style="background: white;" src="svg\78M5dS5CEa.svg"></div> |
+|semplificazione | <!-- $$\sqrt[mn]{a^n} = \sqrt[m]{a}$$ --> <div align="center"><img style="background: white;" src="https://render.githubusercontent.com/render/math?math="></div> |
 |potenza radicale | $$(\sqrt[n]{a})^m = \sqrt[n]{a^m}$$ |
 |razionalizzazione | $$\frac{b}{\sqrt{a}}=\frac{b}{\sqrt{a}} \cdot \frac{\sqrt{a}}{a} = \frac{b \sqrt{a}}{a}$$ $$\frac{b}{\sqrt[n]{a^m}}=\frac{b}{\sqrt[n]{a^m}} \cdot \frac{\sqrt[n]{a^{n-m}}}{\sqrt[n]{a^{n-m}}} = \frac{b \sqrt[n]{a^{n-m}}}{a}$$ $$\frac{Q}{\sqrt{a} + \sqrt{b}}=\frac{Q}{\sqrt{a} + \sqrt{b}} \cdot \frac{\sqrt{a} - \sqrt{b}}{\sqrt{a} - \sqrt{b}} = \frac{Q \sqrt{a} - \sqrt{b}}{a-b}$$ $$\frac{Q}{\sqrt{a} - \sqrt{b}}=\frac{Q}{\sqrt{a} - \sqrt{b}} \cdot \frac{\sqrt{a} + \sqrt{b}}{\sqrt{a} + \sqrt{b}} = \frac{Q \sqrt{a} + \sqrt{b}}{a-b}$$ |
 |potenza radicale | $$(\sqrt[n]{a})^m = \sqrt[n]{a^m}$$ |
