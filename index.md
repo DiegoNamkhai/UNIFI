@@ -1,7 +1,7 @@
 # Matematica
-<details>
-  <summary>Formulari</summary>
-  
+
+## Formulari
+
   - il [seguente](https://diegonamkhai.github.io/UNIFI/FORMULARIO_1.html) formulario contiene:
     - algebra
     - razionalizzazione
