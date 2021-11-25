@@ -10,7 +10,7 @@ $$\sqrt[mn]{a^n} = \sqrt[m]{a}$$
 
 
 # Chimica
-## Formulari
 
 # Fisica
-## Formulari
+
+# Biologia
