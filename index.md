@@ -1,16 +1,26 @@
 # Matematica
-## Formulari
-il seguente formulario contiene:
-- algebra
-- razionalizzazione
-- limiti notevoli
-- derivate elementari e non
-[FORMULARIO](https://github.com/DiegoNamkhai/UNIFI/blob/main/FORMULARIO.md)
-$$\sqrt[mn]{a^n} = \sqrt[m]{a}$$
-
+<details>
+  <summary>Formulari</summary>
+  
+  - il [seguente](https://github.com/DiegoNamkhai/UNIFI/blob/main/FORMULARIO_1.html) formulario contiene:
+    - algebra
+    - razionalizzazione
+    - limiti notevoli
+    - derivate elementari e non
+  
+</details>
 
 # Chimica
-## Formulari
 
 # Fisica
-## Formulari
+
+# Biologia
+
+### Come collaborare
+> puoi contattarmi o seguire direttamente i passaggi qui sotto elencati(in aggiornamento)
+>  - Per segnalarmi un errore andare nella sezione *issues* e creare un errore specificando cosa è sbagliato e quale è la correzione da apportare
+>     > bisogna prima aver effettuato il login --> quindi essersi registrati alla piattaforma
+>  - Per contattarmi o segnalarmi errori manda direttamente una email a *diego.namkhai@gmail.com*
+> 
+
+
