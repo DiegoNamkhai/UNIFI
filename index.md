@@ -7,8 +7,6 @@
     - razionalizzazione
     - limiti notevoli
     - derivate elementari e non
-  
-</details>
 
 # Chimica
 
