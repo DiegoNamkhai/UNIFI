@@ -1,14 +1,12 @@
 # Matematica
-<details>
-  <summary>Formulari</summary>
-  
-  - il [seguente](https://diegonamkhai.github.io/UNIFI/FORMULARIO_1M.html) formulario contiene:
+
+## Formulari
+
+  - il [seguente](https://diegonamkhai.github.io/UNIFI/FORMULARIO_1.html) formulario contiene:
     - algebra
     - razionalizzazione
     - limiti notevoli
     - derivate elementari e non
-  
-</details>
 
 # Chimica
 
